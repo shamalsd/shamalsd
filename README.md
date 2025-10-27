@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamal Deshmukh</h1>
-<h3 align="center">A passionate React Developer from India</h3>
+<h3 align="center"> Passionate React Developer with 2+ years of experience in creating modern and high-performing web applications</h3>
 
 - 🌱 I’m currently expanding my skills in **Full Stack Development**
 - 💬 Ask me about **React, JavaScript, or front-end UI**
